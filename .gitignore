@@ -2,3 +2,6 @@
 build/
 .vs/
 out/
+*.exe
+*.obj
+*.out
