@@ -10,4 +10,4 @@ include_directories("./includes/")
 add_compile_options("$<$<C_COMPILER_ID:MSVC>:/utf-8>")
 add_compile_options("$<$<CXX_COMPILER_ID:MSVC>:/utf-8>")
 
-add_executable(WinCppTemplate "./src/chapter01/p10.cpp")
+add_executable(WinCppTemplate "./src/chapter01/p17.cpp")
